@@ -1,1 +1,5 @@
 # Pip - dependências
+
+# Precisa ser disponibilizado:
+Flask==3.0.3
+marshmallow==3.23.1
